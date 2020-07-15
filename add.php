@@ -5,3 +5,4 @@ $c=$A+$B;
 echo "add= $c";
  ?>
     
+<!-- work done -->
